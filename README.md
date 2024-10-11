@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning C#, Java, C++ and Python
 <div id="Static" align = Center> 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaYlibka&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuliaYlibka&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuliaYlibka&theme=default&utcOffset=8)
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuliaYlibka&theme=default"/>
+  <img src = "http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuliaYlibka&theme=default"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JuliaYlibka&theme=default&utcOffset=8"/>
 </div>
