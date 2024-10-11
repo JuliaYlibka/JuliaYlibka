@@ -1,4 +1,3 @@
-## Hi there 👋
 <h1>My name is Julia</h1>
 <h3>I'm a student</h3>
 
